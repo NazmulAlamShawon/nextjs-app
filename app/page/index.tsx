@@ -1,7 +1,12 @@
-import React from 'react'
+import Link from "next/link"
 
-export const index = () => {
+export default function IndexPage() {
   return (
-    <div>index</div>
+    <div>
+      <Link href="/contact">
+        <a>My second page</a>
+      </Link>
+     
+    </div>
   )
 }
