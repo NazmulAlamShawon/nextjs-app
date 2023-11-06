@@ -2,8 +2,13 @@ import React from 'react'
 
 const list = () => {
   return (
-    <div>list
-       <h2> list </h2>
+    <div>
+       <h2> list </h2> 
+       <div>
+           <div></div>
+           <div></div>
+           <div></div>
+       </div>
     </div>
   )
 }
