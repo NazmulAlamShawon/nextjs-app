@@ -5,5 +5,8 @@ export default function AboutPage() {
   const {
     query: { id },
   } = router
-  return <div>About us: {id}</div>
+  return <div>About us: {id}
+     <h1>test {id}</h1>
+  
+  </div>
 }
