@@ -6,6 +6,7 @@ const page = () => {
         <div>logo</div>
         <div>menu</div>
         <div> right menu</div>
+      <div> section</div>
 
     </div>
   )
