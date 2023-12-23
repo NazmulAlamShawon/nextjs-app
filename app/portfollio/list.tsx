@@ -6,7 +6,7 @@ const list = () => {
        <h2> list </h2> 
        <div>
            <div><h2> categories</h2> </div>
-           <div></div>
+           <div>one</div>
            <div></div>
        </div>
     </div>
