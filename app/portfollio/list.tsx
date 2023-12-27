@@ -7,7 +7,7 @@ const list = () => {
        <div>
            <div><h2> categories</h2> </div>
            <div>one</div>
-           <div>three</div>
+           <div>three test</div>
        </div>
     </div>
   )
